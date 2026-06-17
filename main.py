@@ -1,7 +1,4 @@
-# -*- coding: utf-8 -*-
-
-"""
-Module 6 Assignment - Book Price Finder
+Book Price Finder
 -----------------------------------------
 A PyQt5 GUI application that connects to a SQLite database (books.db)
 to look up a book's price by title, validate quantity input, and
